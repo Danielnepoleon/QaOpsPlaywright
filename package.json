@@ -11,7 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@azure/identity": "^4.13.1",
+    "@azure/identity": "^4.13.3",
     "@azure/playwright": "^1.1.6",
     "@cucumber/cucumber": "^12.9.0",
     "@playwright/test": "^1.61.1",
